@@ -120,7 +120,9 @@ client_socket.close()
 ```
 
 ##  output:
+1.Server Program
 <img width="1046" height="278" alt="image" src="https://github.com/user-attachments/assets/ab3412fd-8bdc-4c95-8bd9-ae58caa6d8df" />
+2.Client Program
 <img width="1057" height="287" alt="image" src="https://github.com/user-attachments/assets/44b23931-b2ce-401d-a454-832d6b238f19" />
 
 
