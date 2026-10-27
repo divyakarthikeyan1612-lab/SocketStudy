@@ -54,7 +54,8 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 ## Alogotithm:
 
-## code:
+## CODE: 
+```
 1. Server Program (server.py)
 import socket
 
@@ -85,6 +86,8 @@ conn.send(message.encode())
 # Close connection
 conn.close()
 server_socket.close()
+```
+```
 
 2. Client Program (client.py)
 import socket
@@ -107,6 +110,7 @@ print("Server says:", data)
 
 # Close socket
 client_socket.close()
+```
 
 ##  output:
 <img width="1046" height="278" alt="image" src="https://github.com/user-attachments/assets/ab3412fd-8bdc-4c95-8bd9-ae58caa6d8df" />
